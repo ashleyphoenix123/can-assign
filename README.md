@@ -1,5 +1,7 @@
 # can-assign
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/canjs/can-assign.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/canjs/can-assign.png?branch=master)](https://travis-ci.org/canjs/can-assign)
 
 A simplified version of Object.assign, which only accepts a single source argument.
